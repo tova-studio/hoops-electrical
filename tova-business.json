@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "tova-explore",
-  "generatedAt": "2026-11-14T00:00:46.602Z",
+  "generatedAt": "2026-11-14T00:07:27.168Z",
   "slug": "hoopselectrical",
   "name": "Hoops Electrical",
   "city": "Christchurch",
@@ -69,6 +69,6 @@
     "generator": "claude",
     "accent": "#75c043",
     "screenshot": "screenshots/after-desktop.jpg",
-    "publishedAt": "2026-11-14T00:00:46.602Z"
+    "publishedAt": "2026-11-14T00:07:27.168Z"
   }
 }
